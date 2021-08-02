@@ -19,11 +19,11 @@ int adultamount = 0;
 
    if (age > 12) {
 
-      System.out.prntln("The price of your ticket will be R " + adult));
+      System.out.prntln("The price of your ticket will be R " + adult);
 
    else
 
-      System.out.prntln("The price of your ticket will be R " + child));
+      System.out.prntln("The price of your ticket will be R " + child);
 
    price1 = adultamount;
    price2 = childamount;
